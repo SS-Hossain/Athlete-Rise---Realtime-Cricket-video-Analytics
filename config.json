@@ -1,0 +1,24 @@
+{
+    "video_paths": {
+        "input": "input_video.mp4",
+        "output_dir": "output/"
+    },
+    "pose_estimation": {
+        "min_detection_confidence": 0.5,
+        "min_tracking_confidence": 0.5
+    },
+    "thresholds": {
+        "visibility": 0.6,
+        "elbow_angle_good_min": 90,
+        "elbow_angle_good_max": 130,
+        "spine_lean_good_max": 20,
+        "head_knee_dist_good_max": 50,
+        "foot_angle_good_min": 70,
+        "foot_angle_good_max": 110,
+        "follow_through_min_extension": 150
+    },
+    "phase_detection": {
+        "wrist_velocity_threshold_swing": 8,
+        "wrist_velocity_threshold_stance": 2
+    }
+}

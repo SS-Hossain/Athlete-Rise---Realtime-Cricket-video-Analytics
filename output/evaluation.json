@@ -1,0 +1,33 @@
+{
+    "footwork": {
+        "score": 1,
+        "feedback": [
+            "Front foot angle could be adjusted for better shot direction."
+        ]
+    },
+    "head_position": {
+        "score": 2,
+        "feedback": [
+            "Work on keeping your head over the front knee at the moment of impact."
+        ]
+    },
+    "swing_control": {
+        "score": 6,
+        "feedback": [
+            "Good elbow elevation during the downswing, providing control and power."
+        ]
+    },
+    "balance": {
+        "score": 8,
+        "feedback": [
+            "Excellent balance with an upright spine during the shot."
+        ]
+    },
+    "follow_through": {
+        "score": 0,
+        "feedback": [
+            "Could not clearly analyze the follow-through phase."
+        ]
+    },
+    "skill_grade": "Beginner"
+}
